@@ -1,0 +1,36 @@
+package tut04;
+
+public class ScannerEx {
+
+	public static void main(String[] args) {
+		
+		//Scanner(객체) : 값을 입력 받아서 처리 + System.in
+		//객체 초기화(생성자 초기화) new를 사용
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
