@@ -1,0 +1,16 @@
+package tut03;
+
+public class FloatDoubleEx {
+
+	public static void main(String[] args) {
+		
+		//부동소수점 오차
+		//float 7자리 이상
+		float f = 1.0000001f;
+		
+		//double 15자리 이상
+		
+		
+	}
+
+}

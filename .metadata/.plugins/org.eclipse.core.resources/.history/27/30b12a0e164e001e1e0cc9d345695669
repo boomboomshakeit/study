@@ -1,0 +1,13 @@
+package tut01;
+
+public class DoubleEx {
+
+	public static void main(String[] args) {
+		
+		//실수를 저장하는 변수 -> 값을 지정하지 않았을 때
+		//값을 1.0으로 바꿀때
+		
+		double d = 0.0;
+	}
+
+}

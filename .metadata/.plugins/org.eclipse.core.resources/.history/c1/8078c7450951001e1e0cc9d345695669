@@ -1,0 +1,15 @@
+package tut03;
+
+public class StringEx {
+
+	public static void main(String[] args) {
+
+		//기본타입 koreait 문자열 저장
+		//객체타입 koreait 문자열 저장
+		//비교하는 예제
+		
+		String str = "koreait";
+		String str2 = new String("koreait");  //객체타입
+	}
+
+}

@@ -1,0 +1,34 @@
+package tut03;
+
+public class StringEx3 {
+
+	public static void main(String[] args) {
+
+		//소문자 -> 대문자
+		//값.toUpperCase();
+		String title = "korea it academy";
+		System.out.println(title.toUpperCase());
+		
+		System.out.println("---------------------------");
+		
+		//split , ; | 등으로 사용 가능
+		String menus = "Home|Company|Contact";
+		
+		System.out.println(menus.split("|")); // 이렇게 할 시에는 메모리 주소가 나옴 
+		
+		String[] s = menus.split("|"); //메뉴를 파이프 기준으로 쪼개시오
+		System.out.println(s[3]); //0번째 것을 뽑는것
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

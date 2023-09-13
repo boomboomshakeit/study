@@ -1,0 +1,23 @@
+package tut03;
+
+public class StringEx {
+
+	public static void main(String[] args) {
+
+		//기본타입 koreait 문자열 저장
+		//객체타입 koreait 문자열 저장
+		//비교하는 예제
+		
+		String str = "koreait";  //stack
+		String str2 = new String("koreait");  //객체타입  heap
+		
+		//문자열비교 .equals() 값
+		
+		
+		//문자열비교 == 메모리 주소값
+		
+		
+		//문자열을 제외하면 비교는 == 사용하면 됨
+	}
+
+}

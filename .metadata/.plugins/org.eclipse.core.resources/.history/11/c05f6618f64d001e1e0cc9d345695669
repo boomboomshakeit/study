@@ -1,0 +1,16 @@
+package tut01;
+
+public class CharEx {
+	
+	public static void main(String[] args) {
+		
+		//테이터타입 변수명 = 값;
+		char c = 'a';
+		String str = "b"; //''적으면 안나옴
+		int ch = 'c';
+		
+		System.out.println(c);
+		System.out.println(str);
+		System.out.println(ch);
+	}
+}

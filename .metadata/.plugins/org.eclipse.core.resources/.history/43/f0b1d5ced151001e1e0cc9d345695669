@@ -1,0 +1,23 @@
+package tut04;
+
+public class VarEx {
+
+	public static void main(String[] args) {
+		
+		//정수(decimal) -> printf()
+		
+		int num  = 100;
+		
+		System.out.printf("%d", num);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

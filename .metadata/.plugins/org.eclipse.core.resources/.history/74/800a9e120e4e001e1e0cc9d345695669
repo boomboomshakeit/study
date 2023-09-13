@@ -1,0 +1,10 @@
+package tut01;
+
+public class BooleanEx {
+	
+	public static void main(String[] arg) {
+		//컴퓨터에서는 0, 1 => false(거짓) 0
+		//				=>	true(참) 0을 제외한 양수는 참
+		boolean b = false;
+	}
+}
