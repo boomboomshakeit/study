@@ -1,0 +1,26 @@
+package tut04;
+
+import java.util.Scanner;
+
+public class ContEx4 {
+
+	public static void main(String[] args) {
+		
+		//임의의 정수를 입력 받아서 홀, 짝수를 표시하시오
+		//입력은 문자로 입력 받아서 정수로 변환하여 사용하시오
+		//switch
+		//입력화면은 1이면 홀수, 짝수 결과, 2 프로그램 종료
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int str = Integer.parseInt(sc.next());
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

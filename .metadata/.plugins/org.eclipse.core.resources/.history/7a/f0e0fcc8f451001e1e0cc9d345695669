@@ -1,0 +1,53 @@
+package tut04;
+
+import java.util.Scanner;
+
+public class ContEx2 {
+
+	public static void main(String[] args) {
+		//컨트롤 쉬프트 에
+		
+		/*
+		 학점 91 ~ 100 A등급
+		 81 ~ 90 B등급
+		 71 ~ 80 C등급
+		 나머지는 F등급으로 표시하시오
+		 */
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("점수 입력(숫자) > ");
+		//값을 입력 받을 수 있게 sc.next();
+		int temp = Integer.parseInt(sc.next());
+		
+		int jumsu = 88;
+		
+		
+		if (jumsu <= 100 && jumsu >= 91) {
+			System.out.println("A등급");
+		} else if (jumsu <= 90 && jumsu >= 81) {
+			System.out.println("B등급");
+		} else if (jumsu <= 80 && jumsu >= 71) {
+			System.out.println("C등급");
+		} else {
+			System.out.println("F등급");
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

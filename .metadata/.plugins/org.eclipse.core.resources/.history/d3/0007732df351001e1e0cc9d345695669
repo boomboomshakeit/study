@@ -1,0 +1,32 @@
+package tut04;
+
+public class ContEx2 {
+
+	public static void main(String[] args) {
+		
+		/*
+		 학점 91 ~ 100 A등급
+		 81 ~ 90 B등급
+		 71 ~ 80 C등급
+		 나머지는 F등급으로 표시하시오
+		 */
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

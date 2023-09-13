@@ -1,0 +1,55 @@
+package tut04;
+
+import java.util.Scanner;
+
+public class ContEx3 {
+
+	public static void main(String[] args) {
+		
+		//grade 0 Gueest, 1 Member, 2 Admin 을 출력하시오
+		//switch
+		//정수, 문자(char), 문자
+		
+		int grade = 0;
+		
+		/*
+		switch(값) {
+		case 조건: 
+			출력코드
+			break
+		}
+		*/
+		
+		switch(grade) {
+			case 0:
+				System.out.println("Guest님 안녕하세요.");
+				break;
+				
+			case 1:
+				System.out.println("Member님 안녕하세요.");
+				break;
+			
+			default:
+				System.out.println("Admin님 안녕하세요.");
+				break;
+		}
+		
+		
+		System.out.println("-------------------------------------");
+		
+		//'I' : 입력, "S" : 출력, "U" : 수정, "D" : 삭제
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("입력(i), 출력(s), 수정(u), 삭제(d) > ");
+		
+		String str = sc.next();
+		System.out.println(str);
+		
+		
+		
+		
+		
+	}
+
+}
