@@ -1,0 +1,21 @@
+package tut05;
+
+import java.util.Scanner;
+
+public class LoopEx7 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		
+		int money =10000;
+		int coffee = 3000;
+		int stock = 10;
+		
+		boolean run = true;
+		while(run) {
+			System.out.println("================");
+		}
+	}
+
+}

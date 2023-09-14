@@ -1,0 +1,40 @@
+package tut05;
+
+import java.util.Scanner;
+
+public class LoopEx7 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		
+		int money =10000;
+		int coffee = 3000;
+		int stock = 10;
+		
+		boolean run = true;
+		while(run) {
+			System.out.println("===================");
+			System.out.println("스타벅스 커피 자동 판매기");
+			System.out.println("===================");
+			
+			System.out.println("1.구매(P/p) | 2.잔액(B/b) | 3.종료(Q/q)");
+			System.out.println("메뉴 선택 > ");
+			
+			String menu = sc.next();
+			
+			switch(menu) {
+			case "P":
+			case "p":
+				System.out.println("구매");
+				break;
+				
+			case "B":
+			case "b":
+				System.out.println("원 남았습니다.");
+				break;
+			}
+		}
+	}
+
+}

@@ -1,0 +1,30 @@
+package tut05;
+
+public class LoopEx4 {
+
+	public static void main(String[] args) {
+		
+		while(true) {
+			System.out.println("해위");
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
