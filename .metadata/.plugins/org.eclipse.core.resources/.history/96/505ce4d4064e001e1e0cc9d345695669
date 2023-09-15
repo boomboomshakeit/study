@@ -1,8 +1,0 @@
-package tut01;
-
-public class IntEx {
-
-	public static void main(String[] args) {
-		
-	}
-}

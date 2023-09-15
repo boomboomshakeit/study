@@ -21,7 +21,7 @@ public class LoopEx7 {
 			System.out.println("1.구매(P/p) | 2.잔액(B/b) | 3.종료(Q/q)");
 			System.out.print("메뉴 선택 > ");
 			
-			String menu = sc.next();
+			String menu = sc.next(); // 내가 입력한 것을 읽는 것
 			
 			switch(menu) {
 			case "P":
