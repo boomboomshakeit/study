@@ -4,5 +4,27 @@
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="HelloEx2"/>
+    <fullyQualifiedTypeName name="WebEx"/>
+    <fullyQualifiedTypeName name="HelloEx"/>
+    <fullyQualifiedTypeName name="Hello"/>
+    <fullyQualifiedTypeName name="tut08.CalEx"/>
+    <fullyQualifiedTypeName name="tut08.Cal"/>
+    <fullyQualifiedTypeName name="tut08.LoginEx"/>
+    <fullyQualifiedTypeName name="tut08.Login"/>
+    <fullyQualifiedTypeName name="tut08.Const"/>
+    <fullyQualifiedTypeName name="tut08.Register"/>
+    <fullyQualifiedTypeName name="tut08.Borad"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="tut08.Login2"/>
+    <fullyQualifiedTypeName name="boolean"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="tut09.Cal"/>
+    <fullyQualifiedTypeName name="tut09.Display"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="tut09.Users"/>
+    <fullyQualifiedTypeName name="tut09.Users2"/>
 </qualifiedTypeNameHistroy>
