@@ -11,11 +11,11 @@ public class ArticleEx {
 		System.out.println("게시물 개수 > ");
 		int count = sc.nextInt();
 		
-		Article[] art = new Article[count];
+		Article[] art = new Article[count]; //Article을 불러와 art 안에 넣는 것
 		
 		//set 입력
 		for(int i = 0; i < art.length; i++) {
-			art[i] = new Article();
+			art[i] = new Article(); //art라는 배열생성
 			art[i].setNum((i+1));
 			art[i].setSubject("계시물 테스트" + i);
 			art[i].setVisit(art[i].getVisit() + 1);

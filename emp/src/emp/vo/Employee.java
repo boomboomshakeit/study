@@ -13,14 +13,12 @@ public class Employee {
 	
 	public Employee() {}
 
-	public Employee(Long id, String depart, String name, int salary, LocalDateTime startDate, LocalDateTime endDate) {
+	public Employee(Long id, String depart, String name, int salary) {
 		super();
 		this.id = id;
 		this.depart = depart;
 		this.name = name;
 		this.salary = salary;
-		this.startDate = startDate;
-		this.endDate = endDate;
 	}
 
 	public Long getId() {
@@ -66,8 +64,7 @@ public class Employee {
 
 	@Override
 	public String toString() {
-		return "Employee [id=" + id + ", depart=" + depart + ", name=" + name + ", salary=" + salary + ", startDate="
-				+ startDate + ", endDate=" + endDate + "]";
+		return "사번 : " + id + ", 부서 : " + depart + ", 이름 : " + name + ", 급여 : " + salary;
 	}
 	
 	
